@@ -36,5 +36,15 @@ LICENCIA
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
+CONCLUSIÓN
+
+El proyecto "Evidencia_practica3º _trimestre" es una aplicación web que ofrece una solución para gestionar y visualizar información sobre pedidos a través de una API. La implementación de un formulario de búsqueda permite a los usuarios obtener datos específicos de la API, los cuales son presentados de manera clara y visualmente atractiva en la página web.
+
+Destacando la utilización de tecnologías como HTML, CSS y JavaScript, junto con la librería Chart.js, se ha logrado crear una interfaz intuitiva y profesional. La integración de Chart.js permite la generación de un gráfico de dona que representa el estado de los pedidos, facilitando la comprensión de la información.
+
+Además, se ha enfocado en el diseño y estilo de la página utilizando CSS, lo que contribuye a una experiencia de usuario agradable y coherente.
+
+En resumen, "Evidencia_practica3º _trimestre" demuestra la capacidad de desarrollar una aplicación web funcional y bien diseñada, que cumple con los requisitos de gestión y visualización de datos de manera efectiva. Su licencia bajo la MIT License fomenta la colaboración y la mejora continua del proyecto.
+
 Iván Roldán Heredia 1DAM
 
