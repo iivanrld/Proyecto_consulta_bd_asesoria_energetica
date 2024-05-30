@@ -8,24 +8,35 @@ Este proyecto es una página web que permite gestionar y visualizar información
 FUNCIONALIDADES DEL PROYECTO
 
 Formulario de Búsqueda: Un formulario que permite a los usuarios buscar información específica de la API.
+
 Visualización de Datos: Muestra los datos obtenidos de la API en la página web.
+
 Gráfico de Estado de Pedidos: Un gráfico de dona que visualiza el estado de los pedidos (tramitado o no tramitado) usando Chart.js.
+
 Estilo y Diseño: Uso de CSS para estilizar la página, asegurando una interfaz limpia y profesional.
 
 TECNOLOGIAS UTILIZADAS
 
 HTML: Estructura de la página web.
+
 CSS: Estilos para la presentación de la página.
+
 JavaScript: Lógica del lado del cliente, interacción con la API y generación del gráfico.
+
 Chart.js: Librería para la creación del gráfico de dona.
+
 API: Fuente de los datos sobre los pedidos.
 
 USO
 
 Clona el repositorio: git clone https://github.com/tuusuario/tu-repositorio.git
+
 Navega al directorio del proyecto: cd tu-repositorio
+
 Abre index.html en tu navegador web.
+
 Usa el formulario de búsqueda para obtener información de la API.
+
 Visualiza el gráfico de estado de los pedidos.
 
 CONTRIBUCIÓN
