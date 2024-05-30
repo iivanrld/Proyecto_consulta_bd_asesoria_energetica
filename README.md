@@ -5,6 +5,7 @@ DESCRIPCIÓN
 
 Este proyecto es una página web que permite gestionar y visualizar información sobre pedidos mediante la interacción con una API. La aplicación proporciona un formulario de búsqueda para obtener datos específicos de la API y presenta un gráfico que indica si un pedido está tramitado o no, utilizando Chart.js. El diseño y estilo de la página se han implementado con CSS para ofrecer una experiencia de usuario intuitiva y atractiva.
 
+
 FUNCIONALIDADES DEL PROYECTO
 
 1. Formulario de Búsqueda: Un formulario que permite a los usuarios buscar información específica de la API.
@@ -14,6 +15,7 @@ FUNCIONALIDADES DEL PROYECTO
 3. Gráfico de Estado de Pedidos: Un gráfico de dona que visualiza el estado de los pedidos (tramitado o no tramitado) usando Chart.js.
 
 4. Estilo y Diseño: Uso de CSS para estilizar la página, asegurando una interfaz limpia y profesional.
+   
 
 TECNOLOGIAS UTILIZADAS
 
@@ -27,6 +29,7 @@ Chart.js: Librería para la creación del gráfico de dona.
 
 API: Fuente de los datos sobre los pedidos.
 
+
 USO
 
 1. Clona el repositorio: git clone https://github.com/tuusuario/tu-repositorio.git
@@ -38,10 +41,12 @@ USO
 4. Usa el formulario de búsqueda para obtener información de la API.
 
 5. Visualiza el gráfico de estado de los pedidos.
+   
 
 CONTRIBUCIÓN
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualquier cambio que te gustaría realizar.
+
 
 LICENCIA
 
